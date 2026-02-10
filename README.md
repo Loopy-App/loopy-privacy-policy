@@ -1,77 +1,69 @@
-Last updated: February 2026
+Loopy — Your ADHD Companion
+Built with love by neurodivergent minds for neurodivergent minds.
+👋 Who We Are
+Loopy is a support and self-reflection app for adults with ADHD. We help you track how your brain works — mood, energy, focus, meds, routines — so you can spot patterns and feel more in control.
 
-Loopy (“we”, “our”, “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.
+This privacy policy explains how we collect, use, and protect your information. We follow privacy laws in:
 
-1. Information We Collect
+• Australia (Privacy Act 1988 + Australian Privacy Principles)
+• UK & EU (UK GDPR / EU GDPR)
+• New Zealand (Privacy Act 2020)
+• Canada (PIPEDA)
+• USA (CCPA and general protections — HIPAA does not apply to us unless we integrate with health providers)
+🔍 What Data We Collect
+We collect only what we need to make Loopy work for you. That may include:
 
-Loopy may collect:
+• Basic account info: email, password (encrypted)
 
-Account information (email address)
+• Optional profile info: name, age range, support goals, etc.
 
-App usage data
+• Daily check-in data: mood, focus, anxiety, energy, sleep, medication (if entered by you)
 
-Check-in and journaling content
+• Device data: app version, crash logs, anonymous usage stats
 
-Device information (for stability and performance)
+• Optional reminders or notifications you set
 
-Optional feedback and support messages
+If you enter anything related to your health or mental wellbeing, that's treated as sensitive information under Australian law, GDPR, and others.
+🧠 How We Use Your Data
+We use your data to:
 
-We do not sell your personal data.
+• Power the app (tracking, tips, insights)
+• Personalise your experience
+• Help you reflect on your ADHD patterns
+• Improve Loopy and fix bugs
 
-2. How We Use Your Information
+We do not sell your data. Ever.
 
-We use your information to:
+We might (with consent) use de-identified, anonymous data to understand general usage trends and make the app better.
+🔐 How We Store & Protect It
+All data is encrypted in transit and at rest. We use secure cloud infrastructure with access controls, authentication, and regular updates.
 
-Provide and improve app features
+Right now, we use industry-standard platforms that may host data in Australia, the US, or Europe — but we ensure any country has strong data protection laws or agreements in place.
 
-Personalise insights and reports
+We only keep your personal data as long as needed to run Loopy, unless required by law.
+✋ Your Rights
+Depending on where you live, you can:
 
-Maintain account security
+• Access or export your data
+• Correct inaccurate data
+• Delete your account
+• Withdraw consent for reminders or analytics
+• Ask questions or lodge a complaint
 
-Fix bugs and improve performance
+You can request any of these by emailing us at support@loopyappau.com — we'll respond as soon as possible.
+⚠️ Data Breaches
+If something goes seriously wrong (e.g. a data breach that risks harm), we'll assess it immediately and notify you — and the appropriate authorities — if required by law.
 
-Communicate about updates (if requested)
+We follow Australia's Notifiable Data Breach scheme and similar rules in other countries.
+👶 Children
+Loopy is built for adults (16+). We don't knowingly collect data from anyone under that age. If you're a parent or guardian and believe your child has used Loopy without permission, contact us and we'll help.
+✉️ Updates to This Policy
+We may update this Privacy Policy if laws change or the app evolves. If we do, we'll notify you in the app or via email.
 
-3. Data Storage and Security
+We'll always keep it easy to read and never bury important changes in legal fluff.
+📬 Contact
+If you have any questions, reach out to us at:
+support@loopyappau.com
 
-Your data is stored securely using industry-standard protections.
-
-We take reasonable steps to protect your personal information from unauthorised access, loss, or misuse.
-
-4. Sharing of Information
-
-We do not share your personal data with third parties except:
-
-When required by law
-
-To protect user safety
-
-With trusted service providers (hosting, analytics) under confidentiality agreements
-
-5. Health Disclaimer
-
-Loopy is a wellbeing and self-management tool. It does not provide medical advice, diagnosis, or treatment.
-
-Always consult a qualified healthcare professional for medical concerns.
-
-6. Your Rights
-
-You may:
-
-Request access to your data
-
-Request deletion of your account
-
-Request corrections
-
-Contact us at: sjdanielsen1@gmail.com
-
-7. Changes to This Policy
-
-We may update this policy occasionally. Updates will be posted on this page.
-
-8. Contact
-
-If you have questions:
-
-📧 sjdanielsen1@gmail.com
+Thanks for using Loopy. We're stoked you're here.
+We're building this for brains like yours and ours. 🧠✨
